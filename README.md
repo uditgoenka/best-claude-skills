@@ -8,9 +8,21 @@ Want to add your skill? Submit a [Pull Request](https://github.com/uditgoenka/be
 
 ## Table of Contents
 
+- [Frameworks & Workflows](#frameworks--workflows)
 - [Automation & Research](#automation--research)
 - [Design & UI/UX](#design--uiux)
 - [Marketing & SEO](#marketing--seo)
+
+## Frameworks & Workflows
+
+Agentic frameworks, meta-prompting systems, and development methodologies for Claude Code.
+
+| | Name | Description | Stats |
+| -- | --- | ------ | ------ |
+| :zap: | [Superpowers](https://github.com/obra/superpowers) | An agentic skills framework and software development methodology that works. Comprehensive skill system with brainstorming, TDD, debugging, code review, parallel agents, git worktrees, and plan-driven development. | ![Stars](https://img.shields.io/github/stars/obra/superpowers?style=flat-square) |
+| :hammer: | [Get Shit Done (GSD)](https://github.com/gsd-build/get-shit-done) | A lightweight and powerful meta-prompting, context engineering, and spec-driven development system for Claude Code. Phase-based roadmaps, research-plan-execute loops, and atomic commits. | ![Stars](https://img.shields.io/github/stars/gsd-build/get-shit-done?style=flat-square) |
+
+[**Go to Top**](#table-of-contents)
 
 ## Automation & Research
 
