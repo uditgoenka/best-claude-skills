@@ -10,6 +10,7 @@ Want to add your skill? Submit a [Pull Request](https://github.com/uditgoenka/be
 
 - [Automation & Research](#automation--research)
 - [Design & UI/UX](#design--uiux)
+- [Marketing & SEO](#marketing--seo)
 
 ## Automation & Research
 
@@ -28,6 +29,18 @@ Skills for building, designing, and improving user interfaces.
 | | Name | Description | Stats |
 | -- | --- | ------ | ------ |
 | :art: | [UserInterface Wiki](https://github.com/raphaelsalaja/userinterface-wiki) | A living manual for better interfaces — articles, patterns, and best practices for designing and building UIs. Built with Fumadocs + Base UI, featuring interactive demos and AI-transcribed articles. | ![Stars](https://img.shields.io/github/stars/raphaelsalaja/userinterface-wiki?style=flat-square) |
+| :sparkles: | [UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | AI skill providing design intelligence for building professional UI/UX across multiple platforms. 50 styles, 21 palettes, 50 font pairings, 9 tech stacks (React, Next.js, Vue, Svelte, SwiftUI, Flutter, and more). | ![Stars](https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat-square) |
+
+[**Go to Top**](#table-of-contents)
+
+## Marketing & SEO
+
+Skills for marketing, SEO, copywriting, analytics, and growth engineering.
+
+| | Name | Description | Stats |
+| -- | --- | ------ | ------ |
+| :rocket: | [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering — a comprehensive marketing toolkit. | ![Stars](https://img.shields.io/github/stars/coreyhaines31/marketingskills?style=flat-square) |
+| :mag: | [Claude SEO](https://github.com/AgriciDaniel/claude-seo) | Universal SEO skill for Claude Code. 13 sub-skills, 7 subagents, extensions system with DataForSEO MCP integration. Covers technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning. | ![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-seo?style=flat-square) |
 
 [**Go to Top**](#table-of-contents)
 
